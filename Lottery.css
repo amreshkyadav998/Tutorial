@@ -1,0 +1,22 @@
+.ticket {
+    width: 300px;
+    font-size: 3rem;
+    border: 1px solid pink;
+    border-radius: 14px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 600px;
+}
+
+.button {
+     border-radius: 12px;
+     background: rgb(174, 255, 0);
+     font-size: 2rem;
+     margin-left: 630px;
+}
+h1 , h3{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
